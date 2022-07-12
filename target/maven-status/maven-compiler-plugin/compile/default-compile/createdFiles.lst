@@ -1,0 +1,6 @@
+co\edu\escuelaing\arsw\producer\Producer.class
+co\edu\escuelaing\arsw\connection\PSRedisTemplate.class
+co\edu\escuelaing\arsw\App.class
+co\edu\escuelaing\arsw\receiver\Receiver.class
+co\edu\escuelaing\arsw\connection\PSRedisListenerContainer.class
+co\edu\escuelaing\arsw\connection\PSRedisConnectionConfiguration.class
